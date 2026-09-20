@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://nitin048.github.io/interviewPrep/senior-dotnet-interview-portal.html">
+    <img src="https://img.shields.io/badge/🌐_Live_Portal-Launch_Here-success?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Questions-2%2C699%2B-blue?style=for-the-badge&logo=dotnet" alt="Total Questions" />
   <img src="https://img.shields.io/badge/Target_Experience-7%2B_Years-purple?style=for-the-badge" alt="Target Experience" />
   <img src="https://img.shields.io/badge/Stack-.NET_8%2F9_%7C_React_%7C_Cloud-green?style=for-the-badge" alt="Tech Stack" />
@@ -84,10 +90,15 @@ Everything is packed into a **single, portable, zero-dependency HTML file** (`se
 
 ## ⚡ Quick Start
 
-No installations, build steps, or package managers are required!
+### 🌐 Live Online Demo (GitHub Pages)
+Launch the portal immediately without downloading anything:
+👉 **[https://nitin048.github.io/interviewPrep/senior-dotnet-interview-portal.html](https://nitin048.github.io/interviewPrep/senior-dotnet-interview-portal.html)**  
+*(or visit root: **[https://nitin048.github.io/interviewPrep/](https://nitin048.github.io/interviewPrep/)**)*
 
-### Option A: Direct Open (Easiest)
-Simply double-click or open [`senior-dotnet-interview-portal.html`](senior-dotnet-interview-portal.html) in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, Brave).
+---
+
+### Option A: Local Direct Open (Offline)
+No installations, build steps, or package managers are required! Simply double-click or open [`senior-dotnet-interview-portal.html`](senior-dotnet-interview-portal.html) in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, Brave).
 
 ```bash
 # macOS

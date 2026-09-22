@@ -35,7 +35,7 @@ Everything is packed into a **single, portable, zero-dependency HTML file** (`se
 ## 🎯 Key Features
 
 ### 1. 🔍 Comprehensive Question Explorer
-- **2,699 curated questions** spanning backend, frontend, architecture, databases, algorithms, and AI.
+- **3,500 curated questions** spanning backend, frontend, architecture, databases, algorithms, and AI.
 - **Real-time fuzzy search** across question titles, comprehensive explanations, architectural rationale, and code blocks.
 - **Multi-dimensional filtering**:
   - **Category**: 25+ specialized domains.

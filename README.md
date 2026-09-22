@@ -1,11 +1,11 @@
-# Senior Full-Stack .NET Developer (7+ Years) Interview Preparation Portal
+# Senior Full-Stack .NET + React Developer Interview Preparation Portal
 
 <p align="center">
   <img src="dotnet-interview-brand-icon.jpg" alt=".NET FullStack Interview Prep Logo" width="160" style="border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
-  <strong>An all-in-one, offline-ready interactive portal packed with 2,699+ real-world interview questions, architectural scenarios, coding exercises, and active-recall flashcards curated for senior-level engineering roles.</strong>
+  <strong>An all-in-one, offline-ready interactive portal packed with 3,500+ real-world interview questions, architectural scenarios, coding exercises, and active-recall flashcards curated for senior-level engineering roles.</strong>
 </p>
 
 <p align="center">
